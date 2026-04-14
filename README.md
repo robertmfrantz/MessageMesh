@@ -10,7 +10,7 @@ MessageMesh is split into two deployment targets:
 - `server/web_gallery.py`: simple web gallery and uploader for the shared image folder.
 - `server/shared_images/`: shared image folder that both the FTP server and web gallery should point to.
 - `node/message_mesh_1.3.0.py`: Raspberry Pi slideshow client.
-- `docs/`: deployment PDFs and changelog.
+- `docs/`: deployment PDFs.
 
 ## Server Machine
 
